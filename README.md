@@ -1,1 +1,1 @@
-# sql-challenge
+# sql-challenge : This repository contains SQL queries for analyzing and managing data related to employees and their associated departments. The queries are designed to perform tasks such as filtering employees by specific criteria, joining tables, and generating insightful reports.
